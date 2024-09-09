@@ -1,3 +1,4 @@
+ATM Interface
 An ATM Interface in Java simulates the interaction between a user and an ATM machine. It typically includes functions for performing tasks such as checking the balance, withdrawing money, depositing money, and 
 exiting. Below is an overview of how you could implement an ATM system with an interface in Java, along with code examples for each part.
 
